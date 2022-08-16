@@ -3,6 +3,6 @@
  You can only need to access this project's website one time, and go to close the internet, and visit that website again, that website will works still normally :)
   =========
   
-  [DEMO](https://maxinzhi007.github.io/service-worker/index.html)
+ Ckick here to check this project [DEMO](https://maxinzhi007.github.io/service-worker/index.html)
   
 *If you like that, give me a star~♡ hahahaha*
